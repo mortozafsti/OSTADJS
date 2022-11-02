@@ -10,13 +10,13 @@ function StrictMode(){
 }
 StrictMode();
 
-let poorCountry = ["Bangladesh","Japan","Srilanka"]
-let richCountry = [...poorCountry,"Bangladesh","Japan","Srilanka"]
+let poorCountry = ["Bangladesh","Japan","Srilanka","Nepal"]
+let richCountry = [...poorCountry,"Bangladesh","Japan","Srilanka","Australia"]
 
 //console.log(richCountry);
 
 let poorCountry1 = ["Bangladesh","Japan","Srilanka"]
-let richCountry1 = ["Bangladesh","Japan","Srilanka"]
+let richCountry1 = ["Bangladesh","Japan","Srilanka","gfhgfdd"]
 
 richCountry.push(poorCountry)
 
